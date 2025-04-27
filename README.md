@@ -20,8 +20,10 @@ OK so to run this app on your computer, follow these steps (it's not that hard I
 ### 1. Clone the Repository (that means download the code)
 
 ```bash
-git clone https://github.com/yourusername/QuizCraft.git
-cd QuizCraft
+Download all the files
+OR
+git clone https://github.com/eva-bhatia/quizgen_app.git
+cd quizgen_app
 ```
 
 ### 2. Install All The Stuff You Need
