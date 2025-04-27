@@ -51,7 +51,7 @@ You need to get an API key from OpenAI's website: https://platform.openai.com/ac
 npm run dev
 ```
 
-Now you can open your browser and go to: http://localhost:5000
+Now you can open your browser and go to: http://localhost:5001
 
 AND BOOM! 💥 You're in!
 
