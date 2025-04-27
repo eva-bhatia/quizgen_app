@@ -1,4 +1,4 @@
-# QuizCraft - SUPER COOL QUIZ MAKER!!! 🤩
+# Quizify - SUPER COOL QUIZ MAKER!!! 🤩
 
 ![QuizCraft Logo](generated-icon.png)
 
